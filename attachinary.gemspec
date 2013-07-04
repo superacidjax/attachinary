@@ -18,6 +18,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'rails', '~> 4.0'
   s.add_dependency 'cloudinary', '~> 1.0.41'
+  s.add_dependency 'protected_attributes'
 
   # s.add_dependency "jquery-rails"
 
